@@ -1,2 +1,2 @@
-# desafio-poo-dio
+# Desafio Poo Dio
 Repositório para o desafio
