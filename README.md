@@ -8,5 +8,5 @@
 
 ### 4. Para que o código fique mais legível e de fácil manutenção, iremos utilizar de algumas das ferramentas que o Paradigma de Orientação a Objetos (POO) ofereça: Abstração, Encapsulamento, Herança e Polimorfismo. ⌨
 
-### 5. E para representar Classes que foram criadas e relacionadas, foram transformadas em Objetos.🖱
+### 5. E para representar Classes que foram criadas e relacionadas, foram transformadas em Objetos. 🖱
 
