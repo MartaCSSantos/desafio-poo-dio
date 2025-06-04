@@ -1,18 +1,11 @@
-## Getting Started
+# Desafio POO DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### 1. Nós abstraimos o Dominio Bootcamp e Modelamos seus Atributos e Métodos
 
-## Folder Structure
+### 2. Criamos as Classes: Bootcamp, Conteúdo, Curso, Mentoria e Dev e relacionamos.
 
-The workspace contains two folders by default, where:
+### 3. As Classes Curso, Mentoria e Devs também foram Modelados, ou seja, criamos seus Atributos e Métodos.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### 4. Para que o código fique mais legível e de fácil manutenção, iremos utilizar de algumas das ferramentas que o Paradigma de Orientação a Objetos (POO) ofereça: Abstração, Encapsulamento, Herança e Polimorfismo.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### 5. E para representar Classes que foram criadas e relacionadas, foram transformadas em Objetos.
