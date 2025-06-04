@@ -1,2 +1,2 @@
 # Desafio Poo Dio
-Repositório para o desafio
+Abstraindo um Bootcamp Usando Orientação a Objetos em Java
